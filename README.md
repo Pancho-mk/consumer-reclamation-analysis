@@ -1,7 +1,5 @@
-# consumer-reclamation-analysis
-# Python3.6, Matplotlib, pandas
-
-Consumer review for Country Life e-shop in Heureka.cz (complaints for the last 11 years)
+# Consumer review for Country Life e-shop in Heureka.cz (complaints for the last 11 years)
+Python3.6, Matplotlib, Pandas
 
 Consumers Pay Special Attention to Negative Reviews!
 We know customers look at positive sentiment and it affects their decisions, but what about negative reviews? For starters, almost as many shoppers who trust positive reviews also prefer to read negative reviews before buying as well.
